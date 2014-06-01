@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDTeste", "TDDTeste\TDDTeste.csproj", "{B6E99400-2930-4529-BE40-CF0C2A86ABFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTDConsole", "TTDConsole\TTDConsole.csproj", "{A04AD674-671D-4983-961B-87FF2BD75CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E99400-2930-4529-BE40-CF0C2A86ABFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E99400-2930-4529-BE40-CF0C2A86ABFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E99400-2930-4529-BE40-CF0C2A86ABFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E99400-2930-4529-BE40-CF0C2A86ABFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04AD674-671D-4983-961B-87FF2BD75CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04AD674-671D-4983-961B-87FF2BD75CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04AD674-671D-4983-961B-87FF2BD75CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04AD674-671D-4983-961B-87FF2BD75CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

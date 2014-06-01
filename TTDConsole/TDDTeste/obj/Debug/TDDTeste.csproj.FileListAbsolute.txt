@@ -1,0 +1,7 @@
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\TTDConsole\TDDTeste\obj\Debug\TDDTeste.csprojResolveAssemblyReference.cache
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\TTDConsole\TDDTeste\bin\Debug\TDDTeste.dll
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\TTDConsole\TDDTeste\bin\Debug\TDDTeste.pdb
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\TTDConsole\TDDTeste\bin\Debug\TTDConsole.exe
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\TTDConsole\TDDTeste\bin\Debug\TTDConsole.pdb
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\TTDConsole\TDDTeste\obj\Debug\TDDTeste.dll
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\TTDConsole\TDDTeste\obj\Debug\TDDTeste.pdb

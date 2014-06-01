@@ -1,0 +1,6 @@
+C:\Users\SONY VAIO\Documents\visual studio 2012\Projects\TTDConsole\TTDConsole\bin\Debug\TTDConsole.exe.config
+C:\Users\SONY VAIO\Documents\visual studio 2012\Projects\TTDConsole\TTDConsole\bin\Debug\TTDConsole.exe
+C:\Users\SONY VAIO\Documents\visual studio 2012\Projects\TTDConsole\TTDConsole\bin\Debug\TTDConsole.pdb
+C:\Users\SONY VAIO\Documents\visual studio 2012\Projects\TTDConsole\TTDConsole\obj\Debug\TTDConsole.exe
+C:\Users\SONY VAIO\Documents\visual studio 2012\Projects\TTDConsole\TTDConsole\obj\Debug\TTDConsole.pdb
+C:\Users\SONY VAIO\Documents\visual studio 2012\Projects\TTDConsole\TTDConsole\obj\Debug\TTDConsole.csprojResolveAssemblyReference.cache
