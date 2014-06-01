@@ -1,0 +1,5 @@
+C:\Users\Magnum\Desktop\refac\confereDigito\testePotz\bin\Debug\testePotz.dll
+C:\Users\Magnum\Desktop\refac\confereDigito\testePotz\bin\Debug\testePotz.pdb
+C:\Users\Magnum\Desktop\refac\confereDigito\testePotz\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Magnum\Desktop\refac\confereDigito\testePotz\obj\Debug\testePotz.dll
+C:\Users\Magnum\Desktop\refac\confereDigito\testePotz\obj\Debug\testePotz.pdb
