@@ -10,7 +10,7 @@ namespace TDD
         [TestMethod]
         public void TestPotz()
         {
-            Potz potz = new Potz("5001234560");
+            Potz potz = new Potz("500654310");
             Assert.AreEqual(500, potz.pontos);
         }
     }

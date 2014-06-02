@@ -12,46 +12,32 @@ namespace PotzImpl
 
         public Potz(string number)
         {
-            string totalPonto = string.Empty;
-            for (int i = 0; i < 3; i++)
+            string digitoVereficador = number[number.Length - 1].ToString();
+            int sum = 0;
+            int mutiplicador = 2;
+            for (int i = number.Length - 2; i >= 0; i--)
             {
-                totalPonto += char.GetNumericValue(number[i]);
+                sum += (int)char.GetNumericValue(number[i]) * mutiplicador;
+                mutiplicador++;
             }
-            this.pontos = Convert.ToInt64(totalPonto);
+
+            string validator = (11 - (sum % 11)).ToString();
+
+            if (validator == digitoVereficador)
+            {
+                this.pontos = Convert.ToInt64(number.Substring(0, 3));
+                return;
+            }
+            else
+            {
+                if ((validator == "10" || validator == "11") && digitoVereficador == "0")
+                {
+                    this.pontos = Convert.ToInt64(number.Substring(0, 3));
+                }
+                else
+                    this.pontos = 0;
+            }
+
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//public static string AddCheckDigit(string number)
-//    {
-//        int Sum = 0;
-//        for (int i = number.Length - 1, Multiplier = 2; i >= 0; i--)
-//        {
-//            Sum += (int)char.GetNumericValue(number[i]) * Multiplier;
-
-//            if (++Multiplier == 8) Multiplier = 2;
-//        }
-//        string Validator = (11 - (Sum % 11)).ToString();
-
-//        if (Validator == "11") Validator = "0";
-//        else if (Validator == "10") Validator = "X";
-
-//        return number + Validator;
-//    }
