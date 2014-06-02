@@ -1,0 +1,5 @@
+C:\TDD\tddtestedesoftware\TDDTeste\PotzImpl\obj\Debug\PotzImpl.csprojResolveAssemblyReference.cache
+C:\TDD\tddtestedesoftware\TDDTeste\PotzImpl\bin\Debug\PotzImpl.dll
+C:\TDD\tddtestedesoftware\TDDTeste\PotzImpl\bin\Debug\PotzImpl.pdb
+C:\TDD\tddtestedesoftware\TDDTeste\PotzImpl\obj\Debug\PotzImpl.dll
+C:\TDD\tddtestedesoftware\TDDTeste\PotzImpl\obj\Debug\PotzImpl.pdb

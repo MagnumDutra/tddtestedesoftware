@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using PotzImpl;
 
 namespace TDD
 {
@@ -9,7 +10,7 @@ namespace TDD
         [TestMethod]
         public void TestPotz()
         {
-            MeuPotz potz = new MeuPotz(306543219);
+            Potz potz = new Potz(306543219);
             Assert.AreEqual(300, potz.pontos);
         }
     }

@@ -1,0 +1,7 @@
+C:\TDD\tddtestedesoftware\TDDTeste\TDD\obj\Debug\TESTE.csprojResolveAssemblyReference.cache
+C:\TDD\tddtestedesoftware\TDDTeste\TDD\bin\Debug\TDD.dll
+C:\TDD\tddtestedesoftware\TDDTeste\TDD\bin\Debug\TDD.pdb
+C:\TDD\tddtestedesoftware\TDDTeste\TDD\bin\Debug\PotzImpl.dll
+C:\TDD\tddtestedesoftware\TDDTeste\TDD\bin\Debug\PotzImpl.pdb
+C:\TDD\tddtestedesoftware\TDDTeste\TDD\obj\Debug\TDD.dll
+C:\TDD\tddtestedesoftware\TDDTeste\TDD\obj\Debug\TDD.pdb
