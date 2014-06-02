@@ -12,6 +12,7 @@ namespace PotzImpl
 
         public Potz(int p)
         {
+            this.pontos = 300;
         }
     }
 }
